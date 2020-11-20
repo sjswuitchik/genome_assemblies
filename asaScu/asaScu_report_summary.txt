@@ -1,0 +1,7 @@
+asaScu
+Raw coverage: 49.53x
+Contig N50: 102.86 Kb
+Scaffold N50: 2.72 Mb
+Assembly size: 986.12 Mb
+Assembly in scaffolds > 10 Kb: 96.24%
+Molecule length: 20.94 Kb

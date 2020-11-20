@@ -1,0 +1,10 @@
+asaScu BUSCO 
+
+C:94.5%[S:92.9%,D:1.6%],F:3.4%,M:2.1%,n:4915
+4643 Complete BUSCOs (C)
+4566 Complete and single-copy BUSCOs (S)
+77 Complete and duplicated BUSCOs (D)
+169 Fragmented BUSCOs (F)
+103 Missing BUSCOs (M)
+4915 Total BUSCO groups searched
+
