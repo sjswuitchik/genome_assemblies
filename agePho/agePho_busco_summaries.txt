@@ -1,0 +1,29 @@
+agePho
+
+BUSCO v3.0.2
+C:89.7%[S:87.2%,D:2.5%],F:5.8%,M:4.5%,n:4915
+4411 Complete BUSCOs (C)
+4286 Complete and single-copy BUSCOs (S)
+125 Complete and duplicated BUSCOs (D)
+284 Fragmented BUSCOs (F)
+220 Missing BUSCOs (M)
+4915 Total BUSCO groups searched
+
+BUSCO v3.1.0
+C:89.8%[S:87.2%,D:2.6%],F:5.8%,M:4.4%,n:4915
+4411 Complete BUSCOs (C)
+4285 Complete and single-copy BUSCOs (S)
+126 Complete and duplicated BUSCOs (D)
+287 Fragmented BUSCOs (F)
+217 Missing BUSCOs (M)
+4915 Total BUSCO groups searched
+
+BUSCO v3.1.0 post-ARCS+LINKS
+C:90.2%[S:87.7%,D:2.5%],F:5.5%,M:4.3%,n:4915
+4436 Complete BUSCOs (C)
+4311 Complete and single-copy BUSCOs (S)
+125 Complete and duplicated BUSCOs (D)
+272 Fragmented BUSCOs (F)
+207 Missing BUSCOs (M)
+4915 Total BUSCO groups searched
+
