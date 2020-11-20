@@ -1,0 +1,7 @@
+agePho
+Raw coverage: 48.42x
+Contig N50: 109.28 Kb
+Scaffold N50: 757.06 Kb
+Assembly size: 986.12 Mb
+Assembly in scaffolds > 10 Kb: 88.43%
+Molecule length: 17.33 Kb
